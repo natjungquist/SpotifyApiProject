@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "79dDhB4UflJIcCnXMB3dBI5lyJOM9acGh7Um+EGKneDis713wKc2T3bDWv+Rx0iZKwRD0NH4ukSDiGOeEvqIDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natju\\source\\repos\\firstmvcproject\\firstmvcproject\\firstmvcproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natju\\.nuget\\packages\\embedio\\3.5.2\\embedio.3.5.2.nupkg.sha512",
+    "C:\\Users\\natju\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\natju\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\natju\\.nuget\\packages\\spotifyapi.web\\7.0.2\\spotifyapi.web.7.0.2.nupkg.sha512",
+    "C:\\Users\\natju\\.nuget\\packages\\spotifyapi.web.auth\\7.0.2\\spotifyapi.web.auth.7.0.2.nupkg.sha512",
+    "C:\\Users\\natju\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\natju\\.nuget\\packages\\unosquare.swan.lite\\3.1.0\\unosquare.swan.lite.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
